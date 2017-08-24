@@ -1,9 +1,15 @@
 # Welcome!
 
-This Bash template lets you get started quickly with a simple one-page playground.
+This VB.NET template lets you get started quickly with a simple one-page playground.
 
-```bash runnable
-echo "Hello World!"
+```vb.net runnable
+Imports System
+
+Public Module modmain
+   Sub Main()
+     Console.WriteLine ("Hello World!")
+   End Sub
+End Module
 ```
 
 # Advanced usage
